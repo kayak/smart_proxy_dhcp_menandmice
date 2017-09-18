@@ -1,0 +1,10 @@
+---
+#
+# Configuration file for 'dhcp_menandmice' dns provider
+#
+
+#:username:
+#:password:
+#:ssl:
+#:verify_ssl:
+#:use_ddns:
